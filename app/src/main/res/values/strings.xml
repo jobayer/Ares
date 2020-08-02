@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ares</string>
+    <string name="accs_des">Enable Permission To Lock Device</string>
+</resources>
