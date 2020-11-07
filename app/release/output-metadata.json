@@ -1,19 +1,17 @@
 {
-  "version": 1,
+  "version": 2,
   "artifactType": {
     "type": "APK",
     "kind": "Directory"
   },
   "applicationId": "com.jobayr.ares",
-  "variantName": "release",
+  "variantName": "processReleaseResources",
   "elements": [
     {
       "type": "SINGLE",
       "filters": [],
-      "properties": [],
-      "versionCode": 3,
-      "versionName": "1.5",
-      "enabled": true,
+      "versionCode": 4,
+      "versionName": "1.6",
       "outputFile": "app-release.apk"
     }
   ]
